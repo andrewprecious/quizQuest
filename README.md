@@ -31,7 +31,7 @@ A simple and interactive Quiz Web App built with React and Node.js. It lets user
 
 # 📁 Folder Structure
 
-''' /src └── /components ├── Home.jsx # Main quiz logic └── home.module.css └── App.jsx └──
+``` /src └── /components ├── Home.jsx # Main quiz logic └── home.module.css └── App.jsx └──
 
 # 🧪 How to Run Locally
 #  1. Clone the repo

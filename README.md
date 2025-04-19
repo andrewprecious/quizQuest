@@ -29,14 +29,10 @@ A simple and interactive Quiz Web App built with React and Node.js. It lets user
 - Backend: Node.js, Express (not shown here)
 - HTTP: Axios
 
-# 📁 Folder Structure
-
- /src └── /components ├── Home.jsx # Main quiz logic └── home.module.css └── App.jsx └──
-
 # 🧪 How to Run Locally
 #  1. Clone the repo
 ```
- git clone https://github.com/your-username/quiz-app.git
+ git clone https://github.com/andrewprecious/quiz-app.git
 cd quiz-app
 
 
